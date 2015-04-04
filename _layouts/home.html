@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+{% include head.html %}
+
+<body>
+
+  <header class="page-header">
+    <div class="img-preview" id="previewWrapper">
+      <img src="" id="preview" class="gif-preview">
+    </div>
+    {{ content }}
+  </header>
+
+  <div class="gif-listing">
+  {% include site-index.html %}
+  </div>
+
+  <script type="text/javascript">
+    var preview = document.getElementById("preview"),
+        previewWrapper = document.getElementById('previewWrapper');
+
+    function hoverListener(evt) {
+      previewWrapper.style = '';
+      preview.src = evt.target.href;
+      preview.onload = function () {
+        previewWrapper.style.backgroundImage = "url(" + evt.target.href + ")";
+      };
+    }
+
+    var links = document.getElementsByClassName("gif");
+    for(var i=0; i<links.length; i++) {
+      links[i].addEventListener("mouseover", hoverListener);
+    }
+
+  </script>
+
+</body>
+
+{% include closing-tags.html %}
