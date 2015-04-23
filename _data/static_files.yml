@@ -501,7 +501,7 @@
   modified_time: 1428163595
   extname: .gif
 - path: dancing/tim-cook-party.gif
-  modified_time: 1429786631
+  modified_time: 1429786682
   extname: .gif
 - path: dancing/world-order.gif
   modified_time: 1428163603
@@ -706,6 +706,9 @@
   extname: .gif
 - path: fail/wrong-tool.gif
   modified_time: 1428163597
+  extname: .gif
+- path: forget/you-didnt-see-anything.gif
+  modified_time: 1429786680
   extname: .gif
 - path: fu/batman.gif
   modified_time: 1428163597
