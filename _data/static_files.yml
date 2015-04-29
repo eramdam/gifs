@@ -1163,6 +1163,9 @@
 - path: non-gifs/believe-bullshit_jojo.jpg
   modified_time: 1428100970
   extname: .jpg
+- path: non-gifs/i-sentence-kiss-my-ass.jpg
+  modified_time: 1429948347
+  extname: .jpg
 - path: non-gifs/scott-pilgrim-waiting.jpg
   modified_time: 1421964330
   extname: .jpg
@@ -1186,6 +1189,9 @@
   extname: .png
 - path: non-gifs/mission-sick.png
   modified_time: 1428746297
+  extname: .png
+- path: non-gifs/pac-man-thumbs-up-amiibo.png
+  modified_time: 1421087632
   extname: .png
 - path: non-gifs/sailor-no-time-cry-over-guys.png
   modified_time: 1428747708
