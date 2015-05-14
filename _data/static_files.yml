@@ -149,6 +149,9 @@
 - path: boom/atomic_bomb.gif
   modified_time: 1428163595
   extname: .gif
+- path: boom/bird-run-boom.gif
+  modified_time: 1431515440
+  extname: .gif
 - path: boom/booyah.gif
   modified_time: 1428163593
   extname: .gif
@@ -1031,6 +1034,9 @@
 - path: lolwat/hoth-puppy.gif
   modified_time: 1428163600
   extname: .gif
+- path: lolwat/laugh-bender-serious.gif
+  modified_time: 1431573989
+  extname: .gif
 - path: lolwat/lobster-distraction.gif
   modified_time: 1428163600
   extname: .gif
@@ -1060,6 +1066,9 @@
   extname: .gif
 - path: lolwat/werkin-out.gif
   modified_time: 1428163601
+  extname: .gif
+- path: lolwat/what-the-fuck-century-fox.gif
+  modified_time: 1431597395
   extname: .gif
 - path: lolwat/wtf.gif
   modified_time: 1428163601
@@ -1264,6 +1273,9 @@
   extname: .gif
 - path: pokemon/pokemon-high-five.gif
   modified_time: 1428163599
+  extname: .gif
+- path: pokemon/spin-round.gif
+  modified_time: 1430859334
   extname: .gif
 - path: pokemon/swagger-pokemon.gif
   modified_time: 1427858413
