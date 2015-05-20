@@ -59,6 +59,9 @@
 - path: anime/money-lupin-third.gif
   modified_time: 1429099308
   extname: .gif
+- path: anime/porco-rosso-mad.gif
+  modified_time: 1431801100
+  extname: .gif
 - path: anime/sup-no-face.gif
   modified_time: 1429099308
   extname: .gif
@@ -1253,6 +1256,9 @@
 - path: pokemon/fan-flip-zen.gif
   modified_time: 1428745919
   extname: .gif
+- path: pokemon/gengar-laugh.gif
+  modified_time: 1431801215
+  extname: .gif
 - path: pokemon/godamnit-pidgey.gif
   modified_time: 1428746791
   extname: .gif
@@ -1549,6 +1555,9 @@
   extname: .gif
 - path: whatever/eye-roll.gif
   modified_time: 1428163604
+  extname: .gif
+- path: whatever/i-dont-believe-you.gif
+  modified_time: 1431979733
   extname: .gif
 - path: whatever/james-franco-hands-up.gif
   modified_time: 1428163604
