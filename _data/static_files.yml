@@ -1259,8 +1259,14 @@
 - path: pokemon/gengar-laugh.gif
   modified_time: 1431801215
   extname: .gif
+- path: pokemon/get_rekt.gif
+  modified_time: 1432218659
+  extname: .gif
 - path: pokemon/godamnit-pidgey.gif
   modified_time: 1428746791
+  extname: .gif
+- path: pokemon/happy-posipi-negapi.gif
+  modified_time: 1384357581
   extname: .gif
 - path: pokemon/Hawlucha-showoff.gif
   modified_time: 1428746927
@@ -1280,6 +1286,9 @@
 - path: pokemon/nom-ronflex.gif
   modified_time: 1428747173
   extname: .gif
+- path: pokemon/pikachu-badass.gif
+  modified_time: 1422018940
+  extname: .gif
 - path: pokemon/pikachu-surf.gif
   modified_time: 1431331640
   extname: .gif
@@ -1289,14 +1298,23 @@
 - path: pokemon/pokemon-high-five.gif
   modified_time: 1428163599
   extname: .gif
+- path: pokemon/slap-jigglypuff.gif
+  modified_time: 1371760661
+  extname: .gif
 - path: pokemon/spin-round.gif
   modified_time: 1430859334
   extname: .gif
 - path: pokemon/swagger-pokemon.gif
   modified_time: 1427858413
   extname: .gif
+- path: pokemon/team-rocket-cute.gif
+  modified_time: 1431974454
+  extname: .gif
 - path: pokemon/throw-fck.gif
   modified_time: 1428747098
+  extname: .gif
+- path: pokemon/why-gengar-friends.gif
+  modified_time: 1431639726
   extname: .gif
 - path: pokemon/yay.gif
   modified_time: 1428261277
