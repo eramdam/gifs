@@ -1280,6 +1280,9 @@
 - path: pokemon/meowth-change.gif
   modified_time: 1428261168
   extname: .gif
+- path: pokemon/mwahaha-pachirisu.gif
+  modified_time: 1423605806
+  extname: .gif
 - path: pokemon/nom-nom.gif
   modified_time: 1428261438
   extname: .gif
@@ -1297,6 +1300,9 @@
   extname: .gif
 - path: pokemon/pokemon-high-five.gif
   modified_time: 1428163599
+  extname: .gif
+- path: pokemon/quack-spit-water.gif
+  modified_time: 1359825899
   extname: .gif
 - path: pokemon/slap-jigglypuff.gif
   modified_time: 1371760661
