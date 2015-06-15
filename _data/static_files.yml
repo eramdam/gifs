@@ -515,6 +515,9 @@
 - path: fail/wrong-tool.gif
   modified_time: 1428163597
   extname: .gif
+- path: food/burger-cheese-melting.gif
+  modified_time: 1424372476
+  extname: .gif
 - path: forget/you-didnt-see-anything.gif
   modified_time: 1429786680
   extname: .gif
