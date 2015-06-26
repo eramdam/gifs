@@ -1,10 +1,4 @@
 ---
-- path: $$$/baby-throws-money.gif
-  modified_time: 1428163594
-  extname: .gif
-- path: $$$/money-lupin-third.gif
-  modified_time: 1429099308
-  extname: .gif
 - path: accidents/breakdancing.gif
   modified_time: 1428163592
   extname: .gif
@@ -865,6 +859,15 @@
   extname: .gif
 - path: mind-blown/mind-blown2.gif
   modified_time: 1428163601
+  extname: .gif
+- path: money/baby-throws-money.gif
+  modified_time: 1428163594
+  extname: .gif
+- path: money/lupin-money.gif
+  modified_time: 1428287568
+  extname: .gif
+- path: money/money-lupin-third.gif
+  modified_time: 1429099308
   extname: .gif
 - path: monty-python/killer-rabbit.gif
   modified_time: 1428163601
