@@ -971,6 +971,9 @@
 - path: non-gifs/:3.png
   modified_time: 1427076822
   extname: .png
+- path: non-gifs/garnet-keikaku-smile.png
+  modified_time: 1434887114
+  extname: .png
 - path: non-gifs/lewder.png
   modified_time: 1428747566
   extname: .png
@@ -982,6 +985,9 @@
   extname: .png
 - path: non-gifs/pac-man-thumbs-up-amiibo.png
   modified_time: 1421087632
+  extname: .png
+- path: non-gifs/proceed-spy-tf2.png
+  modified_time: 1394367248
   extname: .png
 - path: non-gifs/sailor-no-time-cry-over-guys.png
   modified_time: 1428747708
