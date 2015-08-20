@@ -80,6 +80,9 @@
 - path: anime/porco-rosso-mad.gif
   modified_time: 1431801100
   extname: .gif
+- path: anime/power-puff-girls-thats-the-evilest-thing-i-can-imagine-gif.gif
+  modified_time: 1436729356
+  extname: .gif
 - path: anime/sailor-moon-deal-with-it.gif
   modified_time: 1425991702
   extname: .gif
@@ -211,6 +214,9 @@
   extname: .gif
 - path: cats/falling-cat-car-window.gif
   modified_time: 1428163593
+  extname: .gif
+- path: cats/oh-hell-no.gif
+  modified_time: 1439985757
   extname: .gif
 - path: cats/shhhhhh.gif
   modified_time: 1428163593
@@ -403,6 +409,9 @@
   extname: .gif
 - path: deal-with-it/money-baller.gif
   modified_time: 1428163595
+  extname: .gif
+- path: deal-with-it/sailor-moon.gif
+  modified_time: 1438049395
   extname: .gif
 - path: disgust/fresh-prince-omg.gif
   modified_time: 1428163595
@@ -983,6 +992,9 @@
 - path: non-gifs/should-famous-minute.jpg
   modified_time: 1428747288
   extname: .jpg
+- path: non-gifs/the_ride_never_ends.jpg
+  modified_time: 1434312806
+  extname: .jpg
 - path: non-gifs/villager-duck-hunt.jpg
   modified_time: 1428746893
   extname: .jpg
@@ -994,6 +1006,9 @@
   extname: .jpg
 - path: non-gifs/:3.png
   modified_time: 1427076822
+  extname: .png
+- path: non-gifs/Futurama_nixons_head_happy.png
+  modified_time: 1438021352
   extname: .png
 - path: non-gifs/garnet-keikaku-smile.png
   modified_time: 1434887114
@@ -1060,6 +1075,12 @@
   extname: .gif
 - path: pokemon/cheers.gif
   modified_time: 1428748806
+  extname: .gif
+- path: pokemon/deal-with-it.gif
+  modified_time: 1425746284
+  extname: .gif
+- path: pokemon/deal-with-it2.gif
+  modified_time: 1426007824
   extname: .gif
 - path: pokemon/fan-flip-zen-dont-give-a-fuck.gif
   modified_time: 1428745919
@@ -1135,6 +1156,9 @@
   extname: .gif
 - path: pokemon/why-gengar-friends.gif
   modified_time: 1431639726
+  extname: .gif
+- path: pokemon/wtf_misty_aaaah.gif
+  modified_time: 1437632985
   extname: .gif
 - path: pokemon/yay.gif
   modified_time: 1428261277
