@@ -38,27 +38,11 @@ function iterator (file, done) {
   filename = file.split('/').pop().replace("'","\'");
   newpath = path.resolve(file.replace('gifs/','gifs/_dist/'), '../..');
   newfilename = file.replace(/\/(?=[^\/]*$)/,'_').split('/').pop();
+  // done(null);
   if (!fs.existsSync(path.resolve(newpath, newfilename))) {
-    exec("osascript -e 'tell application \"Finder\" to make alias file to POSIX file \""+file+"\" at POSIX file \""+newpath+"\"'", function (err, out, stderr) {
-      if (err !== null)
-        done(err);
-
-      setTimeout(renameSingleFile, 0, done);
-    });
+    exec("cp \""+file+"\" \""+newpath+"/"+newfilename+"\"", done);
   } else {
     console.log(newfilename, 'exists. Ignoring...');
     done(null);
   }
-}
-
-
-
-function renameSingleFile(done) {
-  try {
-    fs.renameSync(path.resolve(newpath, filename), path.resolve(newpath, newfilename));
-    console.log('Symlinking', filename, 'to', newfilename);
-  } catch (e) {
-    console.log(e);
-  }
-  done(null);
 }
