@@ -1,4 +1,7 @@
 ---
+- path: animals/AH-sloth.gif
+  modified_time: 1450719765
+  extname: .gif
 - path: animals/balloon-scares-cat.gif
   modified_time: 1444512391
   extname: .gif
@@ -142,6 +145,9 @@
   extname: .gif
 - path: anime/sailor-moon-deal-with-it.gif
   modified_time: 1444512390
+  extname: .gif
+- path: anime/scrooge-mc-duck.gif
+  modified_time: 1450550515
   extname: .gif
 - path: anime/steamboat-willie-1.gif
   modified_time: 1444512390
@@ -509,6 +515,9 @@
 - path: excite/popcorn-stuffing.gif
   modified_time: 1444512398
   extname: .gif
+- path: excite/popcorn.gif
+  modified_time: 1320395453
+  extname: .gif
 - path: excite/scream.gif
   modified_time: 1444512393
   extname: .gif
@@ -560,6 +569,9 @@
 - path: hm/tennant-nasty-taste.gif
   modified_time: 1444512393
   extname: .gif
+- path: hm/welp-tennant.gif
+  modified_time: 1420939617
+  extname: .gif
 - path: hm/wrong-tool.gif
   modified_time: 1444512394
   extname: .gif
@@ -593,6 +605,9 @@
 - path: jurassic-park/raptor-breath.gif
   modified_time: 1444512396
   extname: .gif
+- path: nay/aww-crickets.gif
+  modified_time: 1380721098
+  extname: .gif
 - path: nay/dikembe-mutumbo-nope.gif
   modified_time: 1444512397
   extname: .gif
@@ -605,11 +620,20 @@
 - path: nay/hulk-punch-thor.gif
   modified_time: 1444512398
   extname: .gif
+- path: nay/lalalalalalala.gif
+  modified_time: 1449163714
+  extname: .gif
 - path: nay/like-saying-no.gif
   modified_time: 1448522156
   extname: .gif
+- path: nay/no-comeback.gif
+  modified_time: 1450712495
+  extname: .gif
 - path: nay/no-no.gif
   modified_time: 1444512397
+  extname: .gif
+- path: nay/nonononono-kermit.gif
+  modified_time: 1450762306
   extname: .gif
 - path: nay/nope-batman.gif
   modified_time: 1444512397
@@ -641,14 +665,23 @@
 - path: nay/whatno.gif
   modified_time: 1444512397
   extname: .gif
+- path: nay/youre-a-bad-person.gif
+  modified_time: 1450762064
+  extname: .gif
 - path: nay/no-look-harder.jpg
   modified_time: 1444512397
   extname: .jpg
+- path: nay/i-regret.png
+  modified_time: 1449162208
+  extname: .png
 - path: non-gifs/believe-bullshit_jojo.jpg
   modified_time: 1444512397
   extname: .jpg
 - path: non-gifs/i-sentence-kiss-my-ass.jpg
   modified_time: 1444512397
+  extname: .jpg
+- path: non-gifs/nastablook.jpg
+  modified_time: 1450071971
   extname: .jpg
 - path: non-gifs/scott-pilgrim-waiting.jpg
   modified_time: 1444512397
@@ -689,11 +722,20 @@
 - path: non-gifs/pac-man-thumbs-up-amiibo.png
   modified_time: 1444512397
   extname: .png
+- path: non-gifs/papyrus_argh.png
+  modified_time: 1450068078
+  extname: .png
+- path: non-gifs/papyrus_love.png
+  modified_time: 1450067927
+  extname: .png
 - path: non-gifs/proceed-spy-tf2.png
   modified_time: 1444512397
   extname: .png
 - path: non-gifs/sailor-no-time-cry-over-guys.png
   modified_time: 1444512397
+  extname: .png
+- path: non-gifs/sans_welp.png
+  modified_time: 1450067950
   extname: .png
 - path: non-gifs/shibe-suit-fck.png
   modified_time: 1444512397
@@ -766,6 +808,9 @@
   extname: .gif
 - path: out/papyrus-out.gif
   modified_time: 1448773059
+  extname: .gif
+- path: out/run-away.gif
+  modified_time: 1424881944
   extname: .gif
 - path: pokemon/butt-pichu.gif
   modified_time: 1444512397
@@ -1052,6 +1097,9 @@
 - path: srsly/tableflip.gif
   modified_time: 1444512398
   extname: .gif
+- path: srsly/too-old.gif
+  modified_time: 1450761869
+  extname: .gif
 - path: srsly/whyyyyy.gif
   modified_time: 1444512400
   extname: .gif
@@ -1088,6 +1136,9 @@
 - path: trial/is-it-joke.gif
   modified_time: 1444512399
   extname: .gif
+- path: trial/just-do-it.gif
+  modified_time: 1449166362
+  extname: .gif
 - path: trial/kid-sunglasses-off.gif
   modified_time: 1444512399
   extname: .gif
@@ -1123,6 +1174,9 @@
   extname: .gif
 - path: trial/smooth.gif
   modified_time: 1444512399
+  extname: .gif
+- path: trial/thatllwork.gif
+  modified_time: 1425949017
   extname: .gif
 - path: trial/wall-e-sit.gif
   modified_time: 1448525526
@@ -1172,11 +1226,26 @@
 - path: vidya-games/reggie-work-out.gif
   modified_time: 1444512400
   extname: .gif
+- path: vidya-games/sakurai-thank-you.gif
+  modified_time: 1450251744
+  extname: .gif
+- path: wat/amateur.gif
+  modified_time: 1425955863
+  extname: .gif
 - path: wat/cheech-wtf.gif
   modified_time: 1444512400
   extname: .gif
+- path: wat/confused-travolta.gif
+  modified_time: 1393574024
+  extname: .gif
+- path: wat/dont-know.gif
+  modified_time: 1450762425
+  extname: .gif
 - path: wat/enough-internet.gif
   modified_time: 1444512400
+  extname: .gif
+- path: wat/facepalm.gif
+  modified_time: 1449163770
   extname: .gif
 - path: wat/fresh-prince-omg.gif
   modified_time: 1444512400
@@ -1211,6 +1280,9 @@
 - path: wat/uh-yeah-office-space.gif
   modified_time: 1444512393
   extname: .gif
+- path: wat/wait...gif
+  modified_time: 1449164927
+  extname: .gif
 - path: wat/what-does-it-mean.gif
   modified_time: 1448521896
   extname: .gif
@@ -1223,6 +1295,9 @@
 - path: wat/wtf.gif
   modified_time: 1444512396
   extname: .gif
+- path: wat/are-you-being-funny.jpg
+  modified_time: 1449168237
+  extname: .jpg
 - path: wow/hepburn-sunglasses-off.gif
   modified_time: 1444512399
   extname: .gif
@@ -1411,6 +1486,9 @@
   extname: .gif
 - path: yes/yay.gif
   modified_time: 1444512401
+  extname: .gif
+- path: yes/yes-fist.gif
+  modified_time: 1426013254
   extname: .gif
 - path: yes/yes-github-yissssss.gif
   modified_time: 1444512401
