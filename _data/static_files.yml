@@ -842,6 +842,12 @@
 - path: pokemon/cheers.gif
   modified_time: 1444512397
   extname: .gif
+- path: pokemon/cookie-pokemon.gif
+  modified_time: 1455510545
+  extname: .gif
+- path: pokemon/coopenotte-drums.gif
+  modified_time: 1455510553
+  extname: .gif
 - path: pokemon/deal-with-it.gif
   modified_time: 1444512397
   extname: .gif
@@ -890,6 +896,9 @@
 - path: pokemon/mwahaha-pachirisu.gif
   modified_time: 1444512398
   extname: .gif
+- path: pokemon/nidoran-nidorina-cute.gif
+  modified_time: 1455511509
+  extname: .gif
 - path: pokemon/nom-nom.gif
   modified_time: 1444512398
   extname: .gif
@@ -910,6 +919,9 @@
   extname: .gif
 - path: pokemon/pokemon-high-five.gif
   modified_time: 1444512398
+  extname: .gif
+- path: pokemon/psyduck-wtf.gif
+  modified_time: 1455512642
   extname: .gif
 - path: pokemon/quack-spit-water.gif
   modified_time: 1444512398
