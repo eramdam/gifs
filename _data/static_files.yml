@@ -470,6 +470,9 @@
 - path: flatten/eyes-blinking-kill-la-kill.gif
   modified_time: 1488576871000
   extname: .gif
+- path: flatten/facepalm-colbert.gif
+  modified_time: 1500795656000
+  extname: .gif
 - path: flatten/facepalm-kirk.gif
   modified_time: 1488576871000
   extname: .gif
@@ -1363,6 +1366,9 @@
   extname: .gif
 - path: flatten/ryan-gosling-clap.gif
   modified_time: 1488576874000
+  extname: .gif
+- path: flatten/sad-guy.gif
+  modified_time: 1500797082000
   extname: .gif
 - path: flatten/sad-kitty.gif
   modified_time: 1488576874000
