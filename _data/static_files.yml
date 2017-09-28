@@ -1,4 +1,7 @@
 ---
+- path: flatten/.DS_Store
+  modified_time: 1503970306000
+  extname: .DS_Store
 - path: flatten/0-fucks-given.gif
   modified_time: 1503619310000
   extname: .gif
@@ -937,6 +940,9 @@
   extname: .gif
 - path: flatten/mako-money-throw.gif
   modified_time: 1488576872000
+  extname: .gif
+- path: flatten/mako-no-money-kill-la-kill.gif
+  modified_time: 1506528875000
   extname: .gif
 - path: flatten/marnie-breakfast.gif
   modified_time: 1488576872000
