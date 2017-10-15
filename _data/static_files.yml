@@ -143,6 +143,9 @@
 - path: flatten/batman-finger.gif
   modified_time: 1457680215000
   extname: .gif
+- path: flatten/baymax-there-there.gif
+  modified_time: 1508110893000
+  extname: .gif
 - path: flatten/bb8-upvote.gif
   modified_time: 1458874666000
   extname: .gif
@@ -469,6 +472,9 @@
   extname: .gif
 - path: flatten/eyes-blinking-kill-la-kill.gif
   modified_time: 1457680216000
+  extname: .gif
+- path: flatten/facepalm-colbert.gif
+  modified_time: 1508110893000
   extname: .gif
 - path: flatten/facepalm-kirk.gif
   modified_time: 1457680216000
@@ -938,6 +944,9 @@
 - path: flatten/mako-money-throw.gif
   modified_time: 1482473621000
   extname: .gif
+- path: flatten/mako-no-money-kill-la-kill.gif
+  modified_time: 1508110893000
+  extname: .gif
 - path: flatten/marnie-breakfast.gif
   modified_time: 1457680216000
   extname: .gif
@@ -1366,6 +1375,9 @@
   extname: .gif
 - path: flatten/ryan-gosling-clap.gif
   modified_time: 1457680216000
+  extname: .gif
+- path: flatten/sad-guy.gif
+  modified_time: 1508110893000
   extname: .gif
 - path: flatten/sad-kitty.gif
   modified_time: 1457680216000
