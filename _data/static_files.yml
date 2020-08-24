@@ -605,6 +605,9 @@
 - path: flatten/good-point.gif
   modified_time: 1457680216000
   extname: .gif
+- path: flatten/goodbye-wilfred-doctor-who.gif
+  modified_time: 1598294171024
+  extname: .gif
 - path: flatten/gordon-ramsay-are-you-stupid.gif
   modified_time: 1457680216000
   extname: .gif
@@ -1377,7 +1380,7 @@
   modified_time: 1466423422000
   extname: .gif
 - path: flatten/roll-safe.png
-  modified_time: 1502686390000
+  modified_time: 1598294171027
   extname: .png
 - path: flatten/run-away.gif
   modified_time: 1457680216000
